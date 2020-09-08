@@ -1,5 +1,7 @@
-## Live Demo for Project
+## Live Demo for Blog Project
 Open the [Demo Blog Project](https://nextjs-typescript-blog-git-master.codepumps.vercel.app/blog)
+
+## Create Next App
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
