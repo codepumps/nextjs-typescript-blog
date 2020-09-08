@@ -49,7 +49,7 @@ export const ProfileDetails = styled.div`
   > div.personal-info {
     > h1 {
       font-weight: 600;
-      margin-bottom: 5px;
+      /* margin-bottom: 5px; */
     }
     > strong {
       font-size: 15px;

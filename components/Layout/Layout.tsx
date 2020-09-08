@@ -14,7 +14,7 @@ import {
   FacebookIcon,
   TwitterIcon,
 } from "./styles";
-import * as profile from "../../images/profile.png";
+import * as profile from "../../images/person.png";
 
 type Props = {
   children?: ReactNode;
@@ -37,8 +37,8 @@ const Layout: React.FC<Props> = ({
         <Navbar>
           <ProfileDetails>
             <div className="personal-info">
-              <h1>Serkan</h1>
-              <strong>Junior Front-End Developer</strong>
+              <h1>Oğuzhan</h1>
+              <strong>Senior Front-End Developer</strong>
             </div>
             <div className="social-icons">
               <Link href="https://github.com/codepumps">
